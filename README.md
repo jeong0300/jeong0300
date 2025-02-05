@@ -2,7 +2,11 @@
 
  ![Image](https://github.com/user-attachments/assets/5cd699a9-555d-4f7e-b6d3-7b36a7262f22)
 
- <h1> </h1>
+ <h1> 📨 contact 📨 </h1>
+
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dllee182@gmail.com)](mailto:dllee182@gmail.com)
+
+ <br/>
 
  <h1> 📌 Tech Stack 📌 </h1>
  
@@ -18,6 +22,8 @@
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
  
  <br/>
  
