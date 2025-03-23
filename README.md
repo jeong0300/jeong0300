@@ -33,7 +33,7 @@
  <br/>
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong0300&layout=donut&show_icons=true&theme=default&hide_border=false&bg_color=00000000&icon_color=000000&text_color=000000&title_color=000000&border_color=C0C0C0&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong0300&layout=donut&show_icons=true&theme=radical&hide_border=false&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
  </a>    
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=jeong0300&show_icons=true&theme=radical&hide_border=false&count_private=true" width=56% />
